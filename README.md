@@ -2,7 +2,7 @@
 
 
 
- [Headers](#headers)
+> [Headers](#headers)
 
 > [Emphasis](#emphasis)
 
@@ -31,7 +31,7 @@
 
 ## Headers
 
-> ### _Markdown_
+> _Markdown_
 
 ```
 # Heading-1
@@ -48,7 +48,7 @@
 
 ```
 
-> _Formater Text  or HTML_
+> _Result_
 
 # Heading -1 
 
@@ -82,7 +82,7 @@ __Bold__ :
 
 ```
 
-> _Formater Text or Html_
+> _Result_
 
 _Italic_ :
 
@@ -122,7 +122,7 @@ _Example_ :
 
 ```
 
-> _Formater Text or Html_ 
+> _Result_ 
 
 _Order list_ :
 
@@ -159,7 +159,7 @@ __Url__ :
    Lorem ipsum dolor sit amet, consectetur adipiscing elit,<link> sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 ```
-> _Formater Text or Html_
+> _Result_
 
 [lorem](https://loremipsum.io/generator/?n=1&t=s "Text generator")
 
@@ -184,7 +184,7 @@ _Reference link_ :
    
 ```
 
-> _Formater Text or Html_
+> _Result_
 
 _Normal link_ :
 
@@ -205,7 +205,7 @@ _Reference link_ :
 
 ```
 
-> _Formater text or Html_
+> _Result_
 
 Working in `for` loop
 
@@ -221,7 +221,7 @@ Working in `for` loop
 </pre>
 
 
-> _Formater Text or Html_
+> _Result_
 
 ```javascript
    let x = 'Javascript';
@@ -252,7 +252,7 @@ _Starting pipe and ending pipe is optional_
 
 ```
 
-> _Formater Text or Html_
+> _Result_
 
    | Heading | Heading | Heading |
    |-------- | ------- | ------- |
@@ -270,7 +270,7 @@ _Starting pipe and ending pipe is optional_
 
 ```
 
-> _Formater Text or Html_
+> _Result_
 
 > Block Quots
 
@@ -293,7 +293,7 @@ _Starting pipe and ending pipe is optional_
 
 ```
 
-> _Formater Text or Html_
+> _Result_
 
    ****  
    Horizontal line
@@ -305,3 +305,5 @@ _Starting pipe and ending pipe is optional_
    Horizontal line
 
    __More Than Three Times__
+
+****
